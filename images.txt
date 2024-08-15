@@ -1,1 +1,2 @@
 yuzutech/kroki
+yuzutech/kroki-mermaid
